@@ -33,3 +33,5 @@ In future I will have a lot more installation options, but you can also compile 
 
 ## Documentation
 See https://packwiz.infra.link/ for the full packwiz documentation!
+
+-- Fork just for artifacts
